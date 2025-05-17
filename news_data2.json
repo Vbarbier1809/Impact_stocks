@@ -1,5 +1,13 @@
 {
     "Apple": {
+        "2025-05-15": [
+            {
+                "title": "‘No more India’: Trump pressures Apple to shift iPhone production back to US",
+                "description": "Trump added that India has one of the world’s highest tariff barriers but has recently offered to drop tariffs on US goods to improve trade ties.",
+                "publishedAt": "2025-05-15T08:16:32Z",
+                "source": "Bloomberg"
+            }
+        ],
         "2025-05-07": [
             {
                 "title": "Harvest Announces Filing of the Preliminary Prospectus for Harvest Apple Enhanced High Income Shares ETF",
@@ -8,11 +16,31 @@
                 "source": "Financial Post"
             }
         ],
-        "2025-05-02": [
+        "2025-05-13": [
             {
-                "title": "Apple hit with pair of downgrades as tariff worries grow",
-                "description": "Apple received at least two downgrades on Friday, following quarterly results that reinforced concerns over tariffs. Read more.",
-                "publishedAt": "2025-05-02T14:40:57Z",
+                "title": "Study finds BILT for Apple Vision Pro accelerates training",
+                "description": "Immersive technologies increase learning speed, accuracy and confidence GRAPEVINE, Texas, May 13, 2025 (GLOBE NEWSWIRE) — BILT Incorporated, creators of 3D Intelligent Instructions®, confirms findings of a case study that evaluated the impact of spatial compu…",
+                "publishedAt": "2025-05-13T11:04:52Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Google Unveils Major Android Redesign Ahead of iPhone Overhaul",
+                "description": "Google unveiled the biggest update to its Android mobile operating system in years, weeks before its biggest competitor in the space, Apple Inc., is expected to give a preview of its overhauled iPhone software.",
+                "publishedAt": "2025-05-13T17:17:05Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-12": [
+            {
+                "title": "Apple Plans AI-Powered Battery Management Mode for Devices in iOS 19",
+                "description": "Apple Inc. is planning to use artificial intelligence technology to address a frequent source of customer frustration: the iPhone’s battery life.",
+                "publishedAt": "2025-05-12T18:46:57Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Apple plans AI-powered battery management mode for devices in iOS 19",
+                "description": "Apple Inc. is planning to use AI tech to address a frequent source of customer frustration: the iPhone’s battery life. Find out more here",
+                "publishedAt": "2025-05-12T18:46:57Z",
                 "source": "Financial Post"
             }
         ],
@@ -29,14 +57,58 @@
                 "publishedAt": "2025-05-08T13:13:41Z",
                 "source": "Financial Post"
             }
+        ],
+        "2025-05-14": [
+            {
+                "title": "CRTC kicks off CanCon hearing as big streamers cancel appearances",
+                "description": "OTTAWA — The CRTC launched a hearing about drafting a new definition for Canadian content Wednesday, but three big American streaming companies dropped off the schedule at the last minute. Netflix, Paramount and Apple cancelled their individual appearances, w…",
+                "publishedAt": "2025-05-14T19:56:16Z",
+                "source": "Financial Post"
+            }
         ]
     },
     "Microsoft": {
+        "2025-05-13": [
+            {
+                "title": "SecurityBridge Teams up With Microsoft to Enhance SAP Security With Microsoft Sentinel",
+                "description": "INGOLSTADT, Germany — SecurityBridge, the Cybersecurity Command Center for SAP, is pleased to announce its collaboration with Microsoft to integrate SAP data into Microsoft Sentinel. The integration enables SecurityBridge to seamlessly share SAP security even…",
+                "publishedAt": "2025-05-13T07:25:14Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Microsoft to lay off about 3% of its workforce",
+                "description": "Microsoft says it is laying off nearly 3% of its entire workforce. The tech giant didn’t disclose the total amount of lost jobs but it will amount to about 6,000 people. Microsoft employed 228,000 full-time workers as of last June, the last time it reported i…",
+                "publishedAt": "2025-05-13T16:00:23Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Microsoft among software stocks offering haven in tariff chaos",
+                "description": "As the Trump trade war clouds the economic outlook, software has dramatically outperformed this year relative to the rest of tech. Read on.",
+                "publishedAt": "2025-05-13T14:33:18Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-12": [
+            {
+                "title": "Procurify Welcomes Microsoft’s Zia Mansoor to Board for AI Strategy Acceleration and Product Innovation",
+                "description": "Renowned Microsoft executive joins Procurify to help shape the future of mid-market spend management through AI-driven innovation and product strategy VANCOUVER, British Columbia — Procurify, the AI-powered spend management platform for the mid-market, today …",
+                "publishedAt": "2025-05-12T13:08:23Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-08": [
             {
                 "title": "Enhance office productivity with savings on Microsoft Office",
                 "description": "There's no better time to save on Microsoft Office and its top-rated assortment of productivity apps.",
                 "publishedAt": "2025-05-08T17:00:02Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-14": [
+            {
+                "title": "Microsoft Is cutting thousands of employees across the company, including at LinkedIn",
+                "description": "Microsoft Corp. said it will cut 6,000 workers across the company in an effort to reduce management layers. Read more",
+                "publishedAt": "2025-05-14T11:44:03Z",
                 "source": "Financial Post"
             }
         ],
@@ -58,6 +130,22 @@
                 "source": "Financial Post"
             }
         ],
+        "2025-05-13": [
+            {
+                "title": "AWS and HUMAIN Announce Groundbreaking AI Zone to Accelerate AI Adoption in Saudi Arabia and Globally",
+                "description": "More than $5 billion joint investment in AI infrastructure, AWS services, and AI training and talent development will advance Saudi Arabia’s mission to be a global leader in AI RIYADH, Saudi Arabia — Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. compan…",
+                "publishedAt": "2025-05-13T16:20:21Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-14": [
+            {
+                "title": "Boomi and AWS Announce Strategic Collaboration to Transform Enterprise AI Integration, Automation, and SAP Cloud Migration",
+                "description": "CONSHOHOCKEN, Pa. — Boomi™, the leader in AI-driven automation, today announced a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help customers build, manage, monitor and govern generative artificial intelligence (AI) age…",
+                "publishedAt": "2025-05-14T13:19:26Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-08": [
             {
                 "title": "The construction of a road in Brazil draws criticism before first-ever climate talks in the Amazon",
@@ -68,11 +156,11 @@
         ]
     },
     "Alphabet": {
-        "2025-05-02": [
+        "2025-05-14": [
             {
-                "title": "U.S. to demand Google break up its online advertising business",
-                "description": "The DoJ is asking a judge to force Google parent Alphabet to sell its ad exchange and publisher server tech after a trial victory. Read more",
-                "publishedAt": "2025-05-02T20:35:06Z",
+                "title": "Alphabet analyst says ‘complete breakup’ needed for stock gains",
+                "description": "The Google parent's companies such as Youtube and Waymo could be 'worth more in pieces than together,' analysts say. Find out more",
+                "publishedAt": "2025-05-14T14:06:37Z",
                 "source": "Financial Post"
             }
         ],
@@ -110,8 +198,46 @@
             }
         ]
     },
-    "NVIDIA": {},
-    "Samsung": {},
+    "NVIDIA": {
+        "2025-05-14": [
+            {
+                "title": "Trump to overhaul AI chip curbs reviled by Nvidia and US allies",
+                "description": "Trump administration revamps semiconductor export regulations, replacing Biden-era approach, drawing objections from US allies and tech companies.",
+                "publishedAt": "2025-05-14T04:39:16Z",
+                "source": "Bloomberg"
+            }
+        ],
+        "2025-05-13": [
+            {
+                "title": "Nvidia to Sell Chips to Saudi AI Firm for Data Center Plan",
+                "description": "Nvidia Corp. will send semiconductors to Saudi Arabian artificial intelligence company Humain for a 500-megawatt data center buildout, part of a Trump administration initiative that lifts previous restrictions on shipping advanced AI capabilities to the regio…",
+                "publishedAt": "2025-05-13T16:10:52Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "US Weighs Letting UAE Buy Over a Million Advanced Nvidia Chips",
+                "description": "The Trump administration is weighing a deal that would allow the United Arab Emirates to import more than a million advanced Nvidia Corp. chips, people familiar with the matter said, a quantity that far exceeds limits under Biden-era AI chip regulations — and…",
+                "publishedAt": "2025-05-13T16:00:36Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "Samsung": {
+        "2025-05-13": [
+            {
+                "title": "Samsung in Talks to Buy FläktGroup in $1.5 Billion-Plus Deal",
+                "description": "Samsung Electronics Co. is closing in on an agreement to buy FläktGroup Holding GmbH, acquiring the European heating and cooling specialist in its biggest overseas takeover in eight years.",
+                "publishedAt": "2025-05-13T10:24:11Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Do you want a skinny smartphone with worse battery life?",
+                "description": "Samsung's new Galaxy S25 Edge is 5.8 millimeters thick, compared to the S25's 7.2.",
+                "publishedAt": "2025-05-13T22:34:07Z",
+                "source": "The Washington Post"
+            }
+        ]
+    },
     "Tencent": {},
     "Alibaba": {},
     "IBM": {},
@@ -124,6 +250,14 @@
                 "source": "Financial Post"
             }
         ],
+        "2025-05-13": [
+            {
+                "title": "Intel Certifies Shell Lubricant for Cooling AI Data Centers",
+                "description": "Intel Corp. has certified Shell Plc’s lubricant-based method for cooling servers more efficiently within data centers used for artificial intelligence.",
+                "publishedAt": "2025-05-13T13:32:43Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-08": [
             {
                 "title": "Apple Is Developing Specialized Chips for Glasses, New Macs and AI Servers",
@@ -133,27 +267,19 @@
             }
         ]
     },
-    "Oracle": {
-        "2025-05-05": [
+    "Oracle": {},
+    "Sony": {
+        "2025-05-14": [
             {
-                "title": "What Warren Buffett’s Exit as CEO Means for Berkshire Hathaway",
-                "description": "On today’s Big Take podcast: How the “Oracle of Omaha” changed investing and what comes next for the company Buffett built. ​​​​​",
-                "publishedAt": "2025-05-05T23:18:53Z",
+                "title": "Sony’s profits rises on robust performance for music, movies and games",
+                "description": "TOKYO (AP) — Japanese technology and entertainment company Sony logged an 18% rise in profit for the fiscal year through March on healthy results at its music and video-game operations. Tokyo-based Sony Corp. said Wednesday that its annual profit totaled 1.14…",
+                "publishedAt": "2025-05-14T04:14:34Z",
                 "source": "Financial Post"
             }
         ]
     },
-    "Sony": {},
     "Adobe": {},
     "Netflix": {
-        "2025-05-05": [
-            {
-                "title": "Netflix, Disney shares slip on tariffs plan for foreign films",
-                "description": "Shares in U.S. entertainment companies fell after Donald Trump announced 100 per cent tariffs on films produced overseas. Find out more",
-                "publishedAt": "2025-05-05T01:54:30Z",
-                "source": "Financial Post"
-            }
-        ],
         "2025-05-08": [
             {
                 "title": "Netflix investors unfazed by tariffs with growth engine humming",
@@ -161,9 +287,31 @@
                 "publishedAt": "2025-05-08T13:17:43Z",
                 "source": "Financial Post"
             }
+        ],
+        "2025-05-14": [
+            {
+                "title": "CRTC kicks off CanCon hearing as big streamers cancel appearances",
+                "description": "OTTAWA — The CRTC launched a hearing about drafting a new definition for Canadian content Wednesday, but three big American streaming companies dropped off the schedule at the last minute. Netflix, Paramount and Apple cancelled their individual appearances, w…",
+                "publishedAt": "2025-05-14T19:56:16Z",
+                "source": "Financial Post"
+            }
         ]
     },
     "AMD": {
+        "2025-05-13": [
+            {
+                "title": "AMD Unveils EPYC 4005 Series Processors, Delivering Workload-Optimized Solutions for Entry-Level Enterprise",
+                "description": "— AMD EPYC 4005 Processors provide a compelling balance of performance, dependability and efficiency in an affordable, easy-to-deploy platform — SANTA CLARA, Calif., May 13, 2025 (GLOBE NEWSWIRE) — AMD (NASDAQ: AMD) today announced the launch of AMD EPYC™ 400…",
+                "publishedAt": "2025-05-13T13:00:48Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Vultr Deploys New AMD EPYC™ 4005 Series Processors to Deliver Easy-to-Use, Low-Cost Systems for Growing Businesses",
+                "description": "Vultr delivers performance, dependability and efficiency in an affordable, easy-to-deploy platform with new AMD EPYC offerings WEST PALM BEACH, Fla. — Vultr, the world’s largest privately-held cloud infrastructure company, today announced that it is one of th…",
+                "publishedAt": "2025-05-13T14:04:15Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-07": [
             {
                 "title": "AMD to Host Annual Meeting of Stockholders",
@@ -171,37 +319,273 @@
                 "publishedAt": "2025-05-07T20:30:33Z",
                 "source": "Financial Post"
             }
-        ],
-        "2025-05-02": [
-            {
-                "title": "Chengdu Origen and Vanotech Announce First Patient Dosed in VAN-2401 Phase 1 Trial of Gene Therapy for Wet Age-Related Macular Degeneration",
-                "description": "Clinical trial of KH658 evaluates single suprachoroidal space administration of gene-therapy treatment for wet AMD CHENGDU, China and ROCKAWAY, N.J., May 02, 2025 (GLOBE NEWSWIRE) — Chengdu Origen Biotechnology Co., Ltd. (“Chengdu Origen”) and Vanotech Ltd. (…",
-                "publishedAt": "2025-05-02T08:59:06Z",
-                "source": "Financial Post"
-            }
         ]
     },
     "Qualcomm": {},
     "Cisco": {},
     "JP Morgan": {},
-    "Goldman Sachs": {},
-    "Visa": {},
+    "Goldman Sachs": {
+        "2025-05-14": [
+            {
+                "title": "Trump Favors $40-$50 Oil, Goldman Says After Scrutinizing Posts",
+                "description": "US President Donald Trump appears to prefer oil prices between $40 and $50 a barrel, according to Goldman Sachs Group Inc., citing an in-house analysis of his social-media posts on the topic.",
+                "publishedAt": "2025-05-14T02:37:45Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Empower to Offer Private Markets Investments to Retirement Plans",
+                "description": "Firm aligns with Apollo, Franklin Templeton, Goldman Sachs, Neuberger Berman, PIMCO, Partners Group and Sagard Nation’s second largest retirement plan provider opens private market investing to its 19 million plan participants1 GREENWOOD VILLAGE, Colo. — In a…",
+                "publishedAt": "2025-05-14T13:13:02Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-07": [
+            {
+                "title": "Goldman Boosts Forecast for US Inflation as Dollar Slides",
+                "description": "Economists at Goldman Sachs Group Inc. boosted their forecasts for US inflation this year and next, in part to account for a weaker dollar following the Trump administration’s tariff announcements.",
+                "publishedAt": "2025-05-07T22:00:59Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-13": [
+            {
+                "title": "‘Bulldog’ Ex-Goldman Banker Answers Carney’s Call to Fix Canada Resources Sector",
+                "description": "The first time Timothy Hodgson was asked by Mark Carney to come to Ottawa, he left behind an investment banking career at Goldman Sachs Group Inc. that had seen him climb the ranks to lead its Canadian business.",
+                "publishedAt": "2025-05-13T17:32:30Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-08": [
+            {
+                "title": "An $80 Billion UAE Firm Is Wooing Trump and Luring Wall Street",
+                "description": "Even by Abu Dhabi’s standards, the recent rush of investment bankers is unprecedented. Wall Street giants from Goldman Sachs Group Inc. to Morgan Stanley are courting the hottest new player in town: An $80 billion spinoff from the state oil company that wants…",
+                "publishedAt": "2025-05-08T13:03:09Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "Visa": {
+        "2025-05-14": [
+            {
+                "title": "UK Mulls New Investor Visa Targeting Key Strategic Industries",
+                "description": "The UK is drawing up plans for a special visa for foreigners who invest significant sums in Britain, as Prime Minister Keir Starmer’s government seeks to blunt the economic blow from recent tax hikes and wider curbs on work permits.",
+                "publishedAt": "2025-05-14T21:04:59Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
     "Johnson & Johnson": {},
     "Pfizer": {},
     "ExxonMobil": {},
     "ASML": {},
-    "SAP": {},
-    "Siemens": {},
+    "SAP": {
+        "2025-05-13": [
+            {
+                "title": "SecurityBridge Teams up With Microsoft to Enhance SAP Security With Microsoft Sentinel",
+                "description": "INGOLSTADT, Germany — SecurityBridge, the Cybersecurity Command Center for SAP, is pleased to announce its collaboration with Microsoft to integrate SAP data into Microsoft Sentinel. The integration enables SecurityBridge to seamlessly share SAP security even…",
+                "publishedAt": "2025-05-13T07:25:14Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-14": [
+            {
+                "title": "smartShift Revolutionizes SAP Modernization with AI-Powered Revert to Standard",
+                "description": "Poised to Redefine SAP ERP Modernization, smartShift Unveils AI-Powered Platform to Accelerate Revert to Standard. Boston, MA, May 14, 2025 (GLOBE NEWSWIRE) — smartShift, a global leader in SAP custom code transformation, today announced the development of a …",
+                "publishedAt": "2025-05-14T19:59:48Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Boomi and AWS Announce Strategic Collaboration to Transform Enterprise AI Integration, Automation, and SAP Cloud Migration",
+                "description": "CONSHOHOCKEN, Pa. — Boomi™, the leader in AI-driven automation, today announced a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help customers build, manage, monitor and govern generative artificial intelligence (AI) age…",
+                "publishedAt": "2025-05-14T13:19:26Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-07": [
+            {
+                "title": "Rimini Street and ServiceNow Partner with Apsen Farmacêutica to Deliver a Next-Generation Vision of Enterprise-Wide Workflow Automation",
+                "description": "Pharmaceutical manufacturer layers ServiceNow over its existing SAP ECC 6 ERP platform, enables intelligent workflow and automation for immediate business impact and avoids low ROI spend on expensive, risky vendor-mandated migration to SAP S/4HANA LAS VEGAS —…",
+                "publishedAt": "2025-05-07T17:00:10Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "Siemens": {
+        "2025-05-08": [
+            {
+                "title": "Siemens Energy Projects Limited Impact From Import Tariffs",
+                "description": "Siemens Energy AG shrugged off the US tariff chaos that’s hit other German manufacturers, saying that the effect of import duties on its bottom line will be small.",
+                "publishedAt": "2025-05-08T05:29:05Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
     "Louis Vuitton (LVMH)": {},
-    "TotalEnergies": {},
-    "Shell": {},
+    "TotalEnergies": {
+        "2025-05-14": [
+            {
+                "title": "TotalEnergies to Sell 50% Stake in Polish Biogas Unit to HitecVision",
+                "description": "TotalEnergies SE agreed to sell a 50% stake in its Polish biogas production business to Norwegian investment firm HitecVision AS as part of the oil major’s strategy to boost return on its renewables investments.",
+                "publishedAt": "2025-05-14T09:55:42Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "Shell": {
+        "2025-05-12": [
+            {
+                "title": "Publication of Prospectus",
+                "description": "Shell International Finance B.V. and Shell plc 12 May 2025 Publication of Prospectus The following prospectus has been approved by the UK Financial Conduct Authority and is available for viewing: Information Memorandum dated 9 May 2025 relating to the Multi-C…",
+                "publishedAt": "2025-05-12T07:00:18Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 12 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 12 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
+                "publishedAt": "2025-05-12T16:40:00Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-08": [
+            {
+                "title": "BP-Shell Megadeal Would Create European Rival to Exxon Mobil",
+                "description": "If Shell Plc were to acquire BP Plc, it would be among the largest deals in European history, creating for the first time a European oil major that could challenge industry leaders Exxon Mobil Corp. and Chevron Corp.",
+                "publishedAt": "2025-05-08T10:04:40Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 8 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 8 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
+                "publishedAt": "2025-05-08T16:10:06Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-13": [
+            {
+                "title": "Intel Certifies Shell Lubricant for Cooling AI Data Centers",
+                "description": "Intel Corp. has certified Shell Plc’s lubricant-based method for cooling servers more efficiently within data centers used for artificial intelligence.",
+                "publishedAt": "2025-05-13T13:32:43Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 13 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 13 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
+                "publishedAt": "2025-05-13T16:03:45Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-09": [
+            {
+                "title": "Shell’s LNG Canada plans first exports as soon as June",
+                "description": "Shell Plc’s liquefied natural gas project in Canada is preparing to begin overseas sales as soon as late June. Read more.",
+                "publishedAt": "2025-05-09T12:32:35Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 9 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 9 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
+                "publishedAt": "2025-05-09T16:19:17Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-14": [
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 14 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 14 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
+                "publishedAt": "2025-05-14T15:57:49Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-06": [
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 6 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 6 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
+                "publishedAt": "2025-05-06T16:33:10Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-07": [
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 7 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 7 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
+                "publishedAt": "2025-05-07T16:06:25Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-11": [
+            {
+                "title": "Five Key Charts to Watch in Global Commodity Markets This Week",
+                "description": "If Shell Plc and BP Plc tie the knot, the merger would create for the first time a European oil major that could challenge US industry leaders. The data center boom is giving a boost to nuclear energy, but the demand for water that comes with it is raising co…",
+                "publishedAt": "2025-05-11T21:38:28Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
     "Baidu": {},
     "JD.com": {},
-    "BYD": {},
+    "BYD": {
+        "2025-05-07": [
+            {
+                "title": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains",
+                "description": "Tesla Inc.’s China-made shipments declined for a seventh consecutive month, exacerbating a slump in the electric vehicle maker’s global sales.",
+                "publishedAt": "2025-05-07T09:52:44Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
     "ICBC": {},
-    "Toyota": {},
-    "SoftBank": {},
-    "Nintendo": {},
+    "Toyota": {
+        "2025-05-08": [
+            {
+                "title": "Toyota reports booming sales but stays cautious on profit because of various costs",
+                "description": "TOKYO (AP) — Japan’s top automaker Toyota reported record sales for the fiscal year through March on Thursday, but its profit for the latest quarter faltered partly because of a certification scandal. Toyota Motor Corp.’s January-March net profit totaled 664.…",
+                "publishedAt": "2025-05-08T06:42:22Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Toyota Warns of Profit Drop as Tariff Chaos Threatens Carmakers",
+                "description": "Toyota Motor Corp. is bracing itself for a bumpy year, with the Japanese carmaker warning of a slump in profit as global manufacturers scramble to shield themselves from US President Donald Trump’s tariff turmoil.",
+                "publishedAt": "2025-05-08T05:39:20Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-11": [
+            {
+                "title": "Toyota Faces Biggest Hit From Trump Tariffs Among Auto Companies",
+                "description": "Toyota Motor Corp. is the biggest carmaker in the world — and also the auto industry’s biggest loser when it comes to projected losses from US President Donald Trump’s trade war.",
+                "publishedAt": "2025-05-11T20:32:30Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-07": [
+            {
+                "title": "Japan’s Tycoon Families Seek Buyouts to Evade Investor Pressure",
+                "description": "Akio Toyoda’s $42 billion plan to buyout Toyota Industries Corp. is the most dramatic example of a growing trend in Japan of founding families trying to take companies private.",
+                "publishedAt": "2025-05-07T22:21:23Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "SoftBank": {
+        "2025-05-13": [
+            {
+                "title": "SoftBank profit doubles on AI boost to chip sales, startup value",
+                "description": "SoftBank Group Corp's quarterly profit soars 124% on AI demand, boosting startup valuations and chip unit sales.",
+                "publishedAt": "2025-05-13T08:53:34Z",
+                "source": "Bloomberg"
+            }
+        ]
+    },
+    "Nintendo": {
+        "2025-05-09": [
+            {
+                "title": "Full Immersion with Voice Acting & Bonus Story! Mystery Adventure Game ‘Staffer Case’ Available on Nintendo Switch Pre-orders",
+                "description": "SEOUL, South Korea — Shinsegae I&C Inc. (KRX: 035510) announced that the digital version of mystery adventure game Staffer Case is officially launching for Nintendo Switch globally on Thursday, May 29. “Set in a fictional version of 1960s London, Staffer Case…",
+                "publishedAt": "2025-05-09T13:09:34Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
     "Hyundai": {},
     "Reliance Industries": {},
     "Tata Consultancy Services": {}

@@ -436,5 +436,23 @@ def train_svm(X_train, y_train, X_test, y_test, feature_names=None):
         'best_score': grid.best_score_
     }
 
+def main():
+    # 1) Collecte des historiques et calcul des labels
+    returns = get_returns_df(folder="Historique", horizon=20)
+    # 2) Ajout des features techniques
+    for name, df in returns.items():
+        returns[name] = add_technical_features(df, close_col='Close')
+    # 3) Préparation X/Y
+    X_train, X_test, y_train, y_test, feats = prepare_classification_data(returns)
+    # 4) Entraînement et évaluation du XGBoost
+    model = train_xgboost(X_train, y_train, X_test, y_test, feature_names=feats)
+    # 5) Sauvegarde du modèle
+    os.makedirs("models", exist_ok=True)
+    joblib.dump(model, "models/xgboost_best_model.joblib")
+    print("Modèle XGBoost enregistré dans models/xgboost_best_model.joblib")
+
+if __name__ == "__main__":
+    main()
+
 
 

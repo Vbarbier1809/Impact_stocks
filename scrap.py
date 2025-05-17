@@ -3,8 +3,8 @@ import pandas as pd
 import datetime
 from datetime import timedelta
 import os
-from Projet_final.Company import companies
-from Projet_final.Ratios import ratios
+from Company import companies
+from Ratios import ratios
 
 def collect_and_export_ratios(companies, ratios_list, csv_filename="ratios_companies.csv"):
 
@@ -24,6 +24,7 @@ def collect_and_export_ratios(companies, ratios_list, csv_filename="ratios_compa
     df = pd.DataFrame(ratios_data, index=company_names)
 
     df.to_csv(csv_filename, index=True)
+    print('collect_and_export_ratios done!')
 
     return df
 
@@ -47,3 +48,14 @@ def fetch_and_save_historical_data(companies_dict, years=5, output_folder="Histo
         full_path = os.path.join(output_folder, csv_filename)
         df.to_csv(full_path, index=True)
         print(f"Fichier enregistré : {full_path}")
+        print('fetch_and_save_historical_data done!')
+
+def main():
+    # 1. Collecte et export des ratios
+    collect_and_export_ratios(companies, ratios, csv_filename="ratios_companies.csv")
+    
+    # 2. Fetch et sauvegarde de l'historique boursier
+    fetch_and_save_historical_data(companies_dict=companies, years=5, output_folder="Historique")
+
+if __name__ == "__main__":
+    main()
