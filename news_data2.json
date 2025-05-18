@@ -6,13 +6,17 @@
                 "description": "Trump added that India has one of the world’s highest tariff barriers but has recently offered to drop tariffs on US goods to improve trade ties.",
                 "publishedAt": "2025-05-15T08:16:32Z",
                 "source": "Bloomberg"
-            }
-        ],
-        "2025-05-07": [
+            },
             {
-                "title": "Harvest Announces Filing of the Preliminary Prospectus for Harvest Apple Enhanced High Income Shares ETF",
-                "description": "OAKVILLE, Ontario — Harvest Portfolios Group Inc. (“Harvest”) is pleased to announce that it has filed a preliminary prospectus with the Canadian securities regulators for the Harvest Apple Enhanced High Income Shares ETF (“APLE”). APLE provides single-stock …",
-                "publishedAt": "2025-05-07T19:42:36Z",
+                "title": "Trump asks Apple to stop moving iPhone production to India",
+                "description": "Donald Trump asked Apple Inc.’s CEO to stop building plants in India to make devices for the U.S., pushing  domestic production. Read on",
+                "publishedAt": "2025-05-15T13:18:19Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "IPhone Supplier TDK Readies Batteries Geared for Thin AI Gadgets",
+                "description": "TDK Corp. is readying a new generation of batteries to power smartphones through AI tasks at a time that major client Apple Inc. is also preparing to launch a slimmer handset.",
+                "publishedAt": "2025-05-15T20:17:51Z",
                 "source": "Financial Post"
             }
         ],
@@ -58,6 +62,14 @@
                 "source": "Financial Post"
             }
         ],
+        "2025-05-16": [
+            {
+                "title": "Fortnite says its now offline on Apple’s iOS around the world",
+                "description": "NEW YORK (AP) — Fortnite says it’s now unavailable on Apple’s iOS globally because the tech giant blocked a bid to release the popular video game for iPhone users in the U.S. and Europe. “Apple has blocked our Fortnite submission so we cannot release to the U…",
+                "publishedAt": "2025-05-16T15:59:45Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-14": [
             {
                 "title": "CRTC kicks off CanCon hearing as big streamers cancel appearances",
@@ -96,6 +108,20 @@
                 "source": "Financial Post"
             }
         ],
+        "2025-05-15": [
+            {
+                "title": "Vena Sets New Standard in Agentic AI for FP&A With Microsoft Teams Integration",
+                "description": "Vena Copilot for Microsoft Teams is a first-of-its-kind integration that supercharges strategic planning, collaboration and decision making with AI agents to multiply FP&A expertise across the business TORONTO — Vena, the only Complete FP&A platform powered b…",
+                "publishedAt": "2025-05-15T10:10:04Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Microsoft Signs Major Carbon-Removal Deal With Montag’s Rubicon",
+                "description": "Microsoft Corp. has agreed to finance the extraction of 18 million tons of carbon dioxide from the atmosphere, in what’s set to be one of the largest-ever purchases of carbon removal credits.",
+                "publishedAt": "2025-05-15T11:40:37Z",
+                "source": "Financial Post"
+            }
+        ],
         "2025-05-08": [
             {
                 "title": "Enhance office productivity with savings on Microsoft Office",
@@ -111,22 +137,28 @@
                 "publishedAt": "2025-05-14T11:44:03Z",
                 "source": "Financial Post"
             }
-        ],
-        "2025-05-06": [
-            {
-                "title": "One Tech Tip: Skype shut down for good, but users still have these alternatives",
-                "description": "LONDON (AP) — Skype is dead. What now? Microsoft’s shutdown of Skype on May 5 sent millions of users scrambling to find an alternative to the pioneering internet phone service. Skype, which Microsoft bought in 2011, was beloved by a dwindling group of users w…",
-                "publishedAt": "2025-05-06T15:10:47Z",
-                "source": "Financial Post"
-            }
         ]
     },
     "Amazon": {
-        "2025-05-07": [
+        "2025-05-15": [
             {
-                "title": "Amazon to Invest More Than $4 Billion to Launch Infrastructure Region in Chile",
-                "description": "New AWS South America (Chile) Region will enable customers to run workloads and securely store their content in Chile while serving end users with even lower latency Active customers in Chile include AgroSuper, Andres Bello University, Banco de Chile, Banco I…",
-                "publishedAt": "2025-05-07T13:13:29Z",
+                "title": "With rising costs, many turn to Amazon for financial flexibility",
+                "description": "This Amazon FBA course bundle lets you explore e-commerce as a flexible, affordable side income in today’s challenging economy.",
+                "publishedAt": "2025-05-15T12:00:34Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-16": [
+            {
+                "title": "Amazon, worker union before Quebec labour tribunal over warehouse closures",
+                "description": "MONTREAL — A Quebec labour tribunal has begun hearing a case against Amazon over the e-commerce giant’s closure in January of seven warehouses in the province. Some 1,700 employees lost their jobs following Amazon’s sudden termination of its Quebec warehouse …",
+                "publishedAt": "2025-05-16T22:27:24Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Origins Launches in the U.S. Amazon Premium Beauty Store",
+                "description": "The brand brings its high-performance, clinically proven, nature-inspired skincare to Amazon shoppers NEW YORK — Origins, with over 30 years of expertise in combining naturally-derived and scientifically crafted ingredients for powerful skincare, announced it…",
+                "publishedAt": "2025-05-16T13:13:17Z",
                 "source": "Financial Post"
             }
         ],
@@ -173,22 +205,25 @@
             }
         ]
     },
-    "Meta": {},
-    "Tesla": {
-        "2025-05-07": [
+    "Meta": {
+        "2025-05-16": [
             {
-                "title": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains",
-                "description": "Tesla Inc.’s China-made shipments declined for a seventh consecutive month, exacerbating a slump in the electric vehicle maker’s global sales.",
-                "publishedAt": "2025-05-07T09:52:44Z",
-                "source": "Financial Post"
-            },
-            {
-                "title": "Musk’s xAI to Use Tesla Batteries at Memphis Supercomputer",
-                "description": "Elon Musk’s xAI is using Tesla Inc.’s Megapack batteries to shore up its “Colossus” supercomputer in Memphis, another example of the overlapping interests between Musk’s companies.",
-                "publishedAt": "2025-05-07T21:25:24Z",
+                "title": "FTC rests at Meta monopoly trial, shifting focus to defence",
+                "description": "The Federal Trade Commission wrapped up its case for breaking up Meta Platforms Inc. as an illegal social-media monopoly. Find out more here",
+                "publishedAt": "2025-05-16T17:33:56Z",
                 "source": "Financial Post"
             }
         ],
+        "2025-05-15": [
+            {
+                "title": "Abortion-rights groups denounce censorship on Meta-owned apps in Latin America and beyond",
+                "description": "MEXICO CITY (AP) — All of a sudden, women contacting one of the biggest sources of information about abortion in Mexico through the encrypted messaging app WhatsApp were met with silence. The nongovernmental organization’s business account had been blocked. W…",
+                "publishedAt": "2025-05-15T16:40:55Z",
+                "source": "Financial Post"
+            }
+        ]
+    },
+    "Tesla": {
         "2025-05-09": [
             {
                 "title": "Tesla Supplier Panasonic to Slash 10,000 Jobs in Big Overhaul",
@@ -236,20 +271,20 @@
                 "publishedAt": "2025-05-13T22:34:07Z",
                 "source": "The Washington Post"
             }
+        ],
+        "2025-05-15": [
+            {
+                "title": "NEO Battery Appoints Ex-Samsung Large-Scale Cell Expert, Dr. Jun Sik Jeoung, as Senior Scientific Advisor of Commercialization & Cell Development",
+                "description": "Appointed Dr. Jun Sik Jeoung as Senior Scientific Advisor of Commercialization & Cell Development Over 17 Years of Experience in Lithium-Ion Battery R&D, Scale-Up, and Production at Global Battery Cell Manufacturers & Automotive OEM At Samsung, Led BMW i3 EV …",
+                "publishedAt": "2025-05-15T12:04:14Z",
+                "source": "Financial Post"
+            }
         ]
     },
     "Tencent": {},
     "Alibaba": {},
     "IBM": {},
     "Intel": {
-        "2025-05-06": [
-            {
-                "title": "NetApp and Intel Partner to Redefine AI for Enterprises",
-                "description": "Groundbreaking solution simplifies AI inferencing for specialized and local applications SAN JOSE, Calif. — NetApp® (NASDAQ: NTAP), the intelligent data infrastructure company, today announced the release of NetApp AIPod Mini with Intel, a joint solution desi…",
-                "publishedAt": "2025-05-06T12:10:34Z",
-                "source": "Financial Post"
-            }
-        ],
         "2025-05-13": [
             {
                 "title": "Intel Certifies Shell Lubricant for Cooling AI Data Centers",
@@ -311,14 +346,6 @@
                 "publishedAt": "2025-05-13T14:04:15Z",
                 "source": "Financial Post"
             }
-        ],
-        "2025-05-07": [
-            {
-                "title": "AMD to Host Annual Meeting of Stockholders",
-                "description": "SANTA CLARA, Calif., May 07, 2025 (GLOBE NEWSWIRE) — AMD (NASDAQ: AMD) will hold its Annual Meeting of Stockholders on Wednesday, May 14, 2025 at 9 a.m. PDT as a virtual meeting accessible at Forward-looking and other material information may be discussed dur…",
-                "publishedAt": "2025-05-07T20:30:33Z",
-                "source": "Financial Post"
-            }
         ]
     },
     "Qualcomm": {},
@@ -336,14 +363,6 @@
                 "title": "Empower to Offer Private Markets Investments to Retirement Plans",
                 "description": "Firm aligns with Apollo, Franklin Templeton, Goldman Sachs, Neuberger Berman, PIMCO, Partners Group and Sagard Nation’s second largest retirement plan provider opens private market investing to its 19 million plan participants1 GREENWOOD VILLAGE, Colo. — In a…",
                 "publishedAt": "2025-05-14T13:13:02Z",
-                "source": "Financial Post"
-            }
-        ],
-        "2025-05-07": [
-            {
-                "title": "Goldman Boosts Forecast for US Inflation as Dollar Slides",
-                "description": "Economists at Goldman Sachs Group Inc. boosted their forecasts for US inflation this year and next, in part to account for a weaker dollar following the Trump administration’s tariff announcements.",
-                "publishedAt": "2025-05-07T22:00:59Z",
                 "source": "Financial Post"
             }
         ],
@@ -401,11 +420,11 @@
                 "source": "Financial Post"
             }
         ],
-        "2025-05-07": [
+        "2025-05-15": [
             {
-                "title": "Rimini Street and ServiceNow Partner with Apsen Farmacêutica to Deliver a Next-Generation Vision of Enterprise-Wide Workflow Automation",
-                "description": "Pharmaceutical manufacturer layers ServiceNow over its existing SAP ECC 6 ERP platform, enables intelligent workflow and automation for immediate business impact and avoids low ROI spend on expensive, risky vendor-mandated migration to SAP S/4HANA LAS VEGAS —…",
-                "publishedAt": "2025-05-07T17:00:10Z",
+                "title": "Saputo Inc.: Fiscal 2025 Fourth Quarter and Year-End Results",
+                "description": "MONTREAL, May 15, 2025 (GLOBE NEWSWIRE) — Saputo will release its fiscal 2025 fourth quarter and full-year financial results on Thursday, June 5, 2025. A press release will be issued after markets close, and a conference call is scheduled on Friday, June 6, 2…",
+                "publishedAt": "2025-05-15T14:02:19Z",
                 "source": "Financial Post"
             }
         ]
@@ -443,6 +462,32 @@
                 "title": "Transaction in Own Shares",
                 "description": "Transaction in Own Shares 12 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 12 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
                 "publishedAt": "2025-05-12T16:40:00Z",
+                "source": "Financial Post"
+            }
+        ],
+        "2025-05-15": [
+            {
+                "title": "SHELL PLC – REPORT ON PAYMENTS TO GOVERNMENTS FOR THE YEAR 2024",
+                "description": "Shell plc – Report on Payments to Governments for the year 2024 Basis for preparation – Report on Payments to Governments for the year 2024This Report provides a consolidated overview of the payments to governments made by Shell plc and its subsidiary underta…",
+                "publishedAt": "2025-05-15T09:56:29Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "X advertisers from Nestle to Shell deny Musk’s boycott claims",
+                "description": "Advertisers say they didn’t coordinate an ad boycott of Elon Musk’s X following his purchase of the social media platform. Find out more",
+                "publishedAt": "2025-05-15T20:49:53Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Shell Paid Nigeria More Tax Than Any Other Country In 2024",
+                "description": "Shell Plc paid $5.34 billion in taxes and other charges to Nigeria in 2024, more than any other country.",
+                "publishedAt": "2025-05-15T14:13:02Z",
+                "source": "Financial Post"
+            },
+            {
+                "title": "Transaction in Own Shares",
+                "description": "Transaction in Own Shares 15 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 15 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
+                "publishedAt": "2025-05-15T16:06:44Z",
                 "source": "Financial Post"
             }
         ],
@@ -496,19 +541,11 @@
                 "source": "Financial Post"
             }
         ],
-        "2025-05-06": [
+        "2025-05-16": [
             {
                 "title": "Transaction in Own Shares",
-                "description": "Transaction in Own Shares 6 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 6 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
-                "publishedAt": "2025-05-06T16:33:10Z",
-                "source": "Financial Post"
-            }
-        ],
-        "2025-05-07": [
-            {
-                "title": "Transaction in Own Shares",
-                "description": "Transaction in Own Shares 7 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 7 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue: …",
-                "publishedAt": "2025-05-07T16:06:25Z",
+                "description": "Transaction in Own Shares 16 May, 2025 • • • • • • • • • • • • • • • • Shell plc (the ‘Company’) announces that on 16 May, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue…",
+                "publishedAt": "2025-05-16T15:55:07Z",
                 "source": "Financial Post"
             }
         ],
@@ -521,18 +558,18 @@
             }
         ]
     },
-    "Baidu": {},
-    "JD.com": {},
-    "BYD": {
-        "2025-05-07": [
+    "Baidu": {
+        "2025-05-16": [
             {
-                "title": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains",
-                "description": "Tesla Inc.’s China-made shipments declined for a seventh consecutive month, exacerbating a slump in the electric vehicle maker’s global sales.",
-                "publishedAt": "2025-05-07T09:52:44Z",
+                "title": "Baidu, Bilibili, Lenovo Report as US-China Trade Tensions Ease",
+                "description": "Baidu Inc., Bilibili Inc. and Lenovo Group Ltd. are among the Chinese tech firms in focus for next week’s earnings, just as the easing US-China trade war brings back some optimism for the sector.",
+                "publishedAt": "2025-05-16T02:10:24Z",
                 "source": "Financial Post"
             }
         ]
     },
+    "JD.com": {},
+    "BYD": {},
     "ICBC": {},
     "Toyota": {
         "2025-05-08": [
@@ -554,14 +591,6 @@
                 "title": "Toyota Faces Biggest Hit From Trump Tariffs Among Auto Companies",
                 "description": "Toyota Motor Corp. is the biggest carmaker in the world — and also the auto industry’s biggest loser when it comes to projected losses from US President Donald Trump’s trade war.",
                 "publishedAt": "2025-05-11T20:32:30Z",
-                "source": "Financial Post"
-            }
-        ],
-        "2025-05-07": [
-            {
-                "title": "Japan’s Tycoon Families Seek Buyouts to Evade Investor Pressure",
-                "description": "Akio Toyoda’s $42 billion plan to buyout Toyota Industries Corp. is the most dramatic example of a growing trend in Japan of founding families trying to take companies private.",
-                "publishedAt": "2025-05-07T22:21:23Z",
                 "source": "Financial Post"
             }
         ]

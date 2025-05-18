@@ -13,6 +13,7 @@ from Regression import *
 from deep import *
 from Scrapping_news import *
 from Finetuning_BERT import *
+from sentiment import * 
 
 def main():
     # --- TP1 -------
@@ -199,6 +200,9 @@ def main():
     # print("\nPerformances FinBERT:")
     # for metric, value in finbert_eval.items():
     #     print(f"{metric}: {value:.4f}")
+
+ #------TP8------
+    sentiment()
 
 if __name__ == "__main__":
     main()
